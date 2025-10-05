@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "ejercicio1": "node ejercicio1.js",
-    "ejercicio2": "node ejercicio2.js"
+    "ejercicio2": "node ejercicio2.js",
+    "ejercicio3": "node ejercicio3.js"
   },
   "keywords": [],
   "author": "",
